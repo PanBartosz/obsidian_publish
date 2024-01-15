@@ -72,5 +72,6 @@ W kilku badaniach VRowych korzystaliśmy ze stworzonej przez nas adaptacji kwest
 #### *Deliverables*
 1. Skonstruowany w RMarkdown albo w Jupyter Notebook raport statystyczny wraz z omówieniem wyników.
 
+**Bibliografia**
 - https://igroup.org/pq/ipq/index.php - informacje na temat kwestionariusza
 
